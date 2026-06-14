@@ -1,0 +1,16 @@
+nltk
+textblob
+vaderSentiment
+transformers
+torch
+scikit-learn
+gensim
+wordcloud
+matplotlib
+seaborn
+plotly
+pandas
+numpy
+jupyter
+nbconvert
+nrclex
